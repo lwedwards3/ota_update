@@ -30,3 +30,4 @@ class Test:
         if self.check_time():
             self.blink()
         
+t=Test()
